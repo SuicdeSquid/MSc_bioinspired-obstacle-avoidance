@@ -1,0 +1,184 @@
+Tau 1, Harmonics1, Threshold 100， 100， Threshold Ground truth 0.3
+
+Basic_trace1
+Flow of Flow algorithm accuracy
+True Negative (TN): 76
+True Positive (TP): 98
+False Negative (FN): 74
+False Positive (FP): 2
+Correct TP: 94
+Incorrect TP: 4
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 73
+True Positive (TP): 145
+False Negative (FN): 27
+False Positive (FP): 5
+Correct TP: 142
+Incorrect TP: 3
+>> 
+
+Basic_trace2
+Flow of Flow algorithm accuracy
+True Negative (TN): 104
+True Positive (TP): 47
+False Negative (FN): 93
+False Positive (FP): 6
+Correct TP: 46
+Incorrect TP: 1
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 101
+True Positive (TP): 114
+False Negative (FN): 26
+False Positive (FP): 9
+Correct TP: 106
+Incorrect TP: 8
+>> 
+
+Basic_trace3
+Flow of Flow algorithm accuracy
+True Negative (TN): 112
+True Positive (TP): 63
+False Negative (FN): 70
+False Positive (FP): 5
+Correct TP: 52
+Incorrect TP: 11
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 91
+True Positive (TP): 109
+False Negative (FN): 24
+False Positive (FP): 26
+Correct TP: 97
+Incorrect TP: 12
+>> 
+
+Basic_trace4
+Flow of Flow algorithm accuracy
+True Negative (TN): 94
+True Positive (TP): 51
+False Negative (FN): 105
+False Positive (FP): 0
+Correct TP: 50
+Incorrect TP: 1
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 90
+True Positive (TP): 117
+False Negative (FN): 39
+False Positive (FP): 4
+Correct TP: 112
+Incorrect TP: 5
+>> 
+
+Basic_trace5
+Flow of Flow algorithm accuracy
+True Negative (TN): 88
+True Positive (TP): 59
+False Negative (FN): 80
+False Positive (FP): 23
+Correct TP: 54
+Incorrect TP: 5
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 83
+True Positive (TP): 118
+False Negative (FN): 21
+False Positive (FP): 28
+Correct TP: 107
+Incorrect TP: 11
+>> 
+
+Tau 1, Harmonics1, Threshold 100， 100， Threshold Ground truth 0.4
+
+Basic_trace1
+Flow of Flow algorithm accuracy
+True Negative (TN): 41
+True Positive (TP): 100
+False Negative (FN): 109
+False Positive (FP): 0
+Correct TP: 96
+Incorrect TP: 4
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 41
+True Positive (TP): 150
+False Negative (FN): 59
+False Positive (FP): 0
+Correct TP: 147
+Incorrect TP: 3
+>> 
+
+Basic_trace2
+Flow of Flow algorithm accuracy
+True Negative (TN): 82
+True Positive (TP): 53
+False Negative (FN): 115
+False Positive (FP): 0
+Correct TP: 52
+Incorrect TP: 1
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 82
+True Positive (TP): 123
+False Negative (FN): 45
+False Positive (FP): 0
+Correct TP: 115
+Incorrect TP: 8
+>> 
+
+Basic_trace3
+Flow of Flow algorithm accuracy
+True Negative (TN): 70
+True Positive (TP): 63
+False Negative (FN): 112
+False Positive (FP): 5
+Correct TP: 52
+Incorrect TP: 11
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 61
+True Positive (TP): 121
+False Negative (FN): 54
+False Positive (FP): 14
+Correct TP: 109
+Incorrect TP: 12
+>> 
+
+
+Basic_trace4
+Flow of Flow algorithm accuracy
+True Negative (TN): 63
+True Positive (TP): 51
+False Negative (FN): 136
+False Positive (FP): 0
+Correct TP: 50
+Incorrect TP: 1
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 61
+True Positive (TP): 119
+False Negative (FN): 68
+False Positive (FP): 2
+Correct TP: 114
+Incorrect TP: 5
+>> 
+
+Basic_trace5
+Flow of Flow algorithm accuracy
+True Negative (TN): 60
+True Positive (TP): 66
+False Negative (FN): 108
+False Positive (FP): 16
+Correct TP: 61
+Incorrect TP: 5
+
+Fourier Residual algorithm accuracy
+True Negative (TN): 57
+True Positive (TP): 127
+False Negative (FN): 47
+False Positive (FP): 19
+Correct TP: 116
+Incorrect TP: 11
+>> 
